@@ -1,5 +1,5 @@
 ﻿# Marpa-theory-translations
-Translations of theory paper(s) for the [Marpa parsing algorithm](https://github.com/jeffreykegler/Marpa-theory) into Russian (first)/Ukrainian.
+Translations of theory paper(s) for the [Marpa parsing algorithm](https://github.com/jeffreykegler/Marpa-theory) into Russian/Ukrainian.
 
 The idea is to have translations for Jeffrey Kegler’s recent paper [The Marpa recognizer: a simplification](https://github.com/jeffreykegler/Marpa-theory/blob/master/recce.ltx) and its foundations to cite in the translation:
 
